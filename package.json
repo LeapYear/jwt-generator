@@ -1,0 +1,22 @@
+{
+  "name": "jwt-generator",
+  "version": "0.0.1",
+  "description": "Generates JSON web tokens for use with guides.leapyear.io",
+  "main": "generate_token.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeapYear/jwt-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeapYear/jwt-generator/issues"
+  },
+  "homepage": "https://github.com/LeapYear/jwt-generator#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
